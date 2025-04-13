@@ -1,4 +1,4 @@
-# mahesh-finshot2
+# Finshots
 
 A new Flutter project.
 
