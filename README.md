@@ -1,2 +1,7 @@
-# finshot
-The app that gives you daily news
+# mahesh-finshot2
+
+A new Flutter project.
+
+## Getting Started
+
+FlutterFlow projects are built to run on the Flutter _stable_ release.
